@@ -1,7 +1,6 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://github.com/porslin)
 <h1 align="center">Hej! 👋 Jag heter Porslin</h1>
 <h3 align="center">Webbutvecklare | Samordnare | Kommunikatör</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjkxazRucWIxeDFhNndxeGZpcnZ1YmN2aG1zazVnZmtrNnhlcm1uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVZ1M8bVwpaF7MTYNk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porslin&label=Profilvisningar&color=0e75b6&style=flat" alt="porslin" /> </p>
 
