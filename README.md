@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porslin&label=Profilvisningar&color=0e75b6&style=flat" alt="porslin" /> </p>
 
 <h3 align="left">Lite om mig:</h3>
-🌱 Vad jag lär mig just nu: **Python** <br><br>
+🌱 Vad jag lär mig just nu: **Blazor** <br><br>
 
 👨‍💻 Mina projekt: <br>
 Mina repositories hittar du här - [Repositories](https://github.com/porslin?tab=repositories) <br>
@@ -49,6 +49,7 @@ Scrolla vidare för att se projektbeskrivningar!
 
 Några projekt | Länkar
 --- | --- 
+**PersonalSystem**<br> En Blazorserver applikation med UI byggt med MudBlazor för att genomföra CRUD-operations i en personalregister med avdelningar. Appen är kopplad till en SQL dabatas. | [Repo](https://github.com/porslin/personalsystem)<br> 
 **Linkedin/CV**<br> En responsive frontend sida som liknar en Linkedin profil. Innehållet motsvarar mina riktiga färdigheter | [Repo](https://github.com/porslin/linkedin)<br> [Deployment](https://porslin.github.io/linkedin/)
 **Smode Plugin**<br> En Wordpress-plugin. Pluginets funktion är en typ av checklista som checkar av olika delar av en hemsida såsom google-indexering och bildoptimering inför en hemsideleverans. Checkning av de olika delar lagras i databasen som sedan hämtas upp för att se vem som checkat av vad. | [Repo](https://github.com/porslin/smode-plugin)
 **HittaHem**<br> Examensarbete: En publicerad produktion av en bostadsportal i PHP. På portalen kan man söka efter och lämna intresseanmälan för både hyres och köpesobjekt. Användaren har olika roller som admin, objektägare och objektköpare. | [Repo](https://github.com/porslin/lokalhittahem)<br> [Deployment](https://cme-hittahem.nu/)
